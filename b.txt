@@ -1,1 +1,2 @@
 hello b!
+this is b in the new branch
